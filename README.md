@@ -8,4 +8,5 @@ Experimental Evaluation for  MVFSL
 --
 Model| Food-101| VIREO Food-172|ChineseFoodNet
 :-----:|:-----:|:-----:|:----------:|
-RN-Category | 53.9|   74.0| 63.8| 
+RN-Category | 53.9%|74.0%| 63.8%| 
+RN-Ingredeint| 53.5\%|  70.5\%|  64.0\%|
