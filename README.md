@@ -11,4 +11,4 @@ Model| Food-101| VIREO Food-172|ChineseFoodNet
 RN-Category | 53.9%|74.0%| 63.8%| 
 RN-Ingredeint| 53.5%|70.5%|64.0%|
 MVFSL-LC|55.1%|74.8%|65.8%|
-__MVFSL-TC|55.3%|75.1%|66.1%|__
+__MVFSL-TC|55.3%|75.1%|66.1%|
