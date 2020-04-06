@@ -12,3 +12,12 @@ RN-Category | 53.9%|74.0%| 63.8%|
 RN-Ingredeint| 53.5%|70.5%|64.0%|
 MVFSL-LC|55.1%|74.8%|65.8%|
 **MVFSL-TC**|**55.3%**|**75.1%**|**66.1%**|
+## Split
+split.zip contains the train/test split of three food datasets(Food-101,VIREO Food172 and ChineseFoodNet) used in our paper. we show the category split, also the ingredient split.
+## Codes
+Training and testing codes are integrated into one repositories:
+#### train
+```
+For MVFSL-TC:
+$ python MVFSL-TC/MVFSL-TC_train.py
+```
