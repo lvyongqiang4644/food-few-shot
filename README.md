@@ -19,11 +19,12 @@ MVFSL-LC|55.1%|74.8%|65.8%|
 Training and testing codes are integrated into one repositories:
 - tensorflow 1.x
 - python 3.x
-#### Code structure
+#### train&test
 For MVFSL-TC:
 ```
 $ python MVFSL-TC/MVFSL-TC_train.py
 ```
+Note: The model need to be initialized by pre-trained model, and you need to modify the path.
 For MVFSL-LC:
 ```
 $ python MVFSL-LC/MVFSL-LC_train.py
